@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a93b2c0-28e5-4ffa-b5c2-06cf1c8beb0f" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file.html" afterPath="$PROJECT_DIR$/file.html" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +22,7 @@
         <entry file="file://$PROJECT_DIR$/file.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
+<<<<<<< HEAD
               <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
@@ -29,6 +34,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+=======
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
               <folding />
             </state>
           </provider>
@@ -81,6 +89,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -96,7 +108,10 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,13 +217,22 @@
       <option name="presentableId" value="Default" />
       <updated>1495009573901</updated>
       <workItem from="1495009575953" duration="2226000" />
+<<<<<<< HEAD
       <workItem from="1495016496500" duration="1177000" />
       <workItem from="1495027744273" duration="17000" />
+=======
+      <workItem from="1495016496500" duration="399000" />
+      <workItem from="1495027184197" duration="23000" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3420000" />
+=======
+    <option name="totallyTimeSpent" value="2648000" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -256,7 +280,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -274,17 +297,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
+<<<<<<< HEAD
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+=======
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+>>>>>>> ceede9b547f5c95dee43f548470e3cbdfa223cb4
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/legit.html" />
   </component>
 </project>
